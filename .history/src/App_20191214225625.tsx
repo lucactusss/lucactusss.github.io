@@ -1,7 +1,6 @@
 
 import './App.css';
 import { HashRouter, Link } from 'react-router-dom';
-import React from 'react';
 
 const App: React.FC = () => {
   return (
