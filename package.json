@@ -4,7 +4,7 @@
   "homepage": "https://lucactusss.github.io",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.10.1",
+    "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^11.4.2",
     "@types/jest": "^26.0.0",
